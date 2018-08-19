@@ -1,5 +1,5 @@
 .grid {
-    outline: dashed 1px rgb(61, 61, 61);
+    /* outline: dashed 1px #F2C43C; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
