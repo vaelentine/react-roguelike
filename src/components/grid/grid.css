@@ -1,0 +1,11 @@
+.grid {
+    outline: dashed 1px rgb(61, 61, 61);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 500px;
+    width: 500px;
+}

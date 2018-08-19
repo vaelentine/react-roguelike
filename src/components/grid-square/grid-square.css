@@ -1,0 +1,9 @@
+.grid-square {
+    height: 100px;
+    width: 100px;
+    font-size: 20px;
+    outline: dashed 1px rgb(61, 61, 61);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
