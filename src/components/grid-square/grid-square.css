@@ -3,9 +3,10 @@
 .grid-square {
     height: 100px;
     width: 100px;
-    font-size: 2em;
+    font-size: 3em;
     font-family: 'Orbitron', sans-serif;
-    outline: dashed 1px rgb(61, 61, 61);
+    outline: dashed 1px #00B590;
+    color: #C6C944;
     display: flex;
     align-items: center;
     justify-content: center;
